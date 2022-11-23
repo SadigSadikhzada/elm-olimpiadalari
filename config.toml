@@ -1,5 +1,5 @@
 baseURL = "https://elmolimpiadalari.netlify.app"
-title = "Geekdocs"
+title = "Elm olimpiadaları"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
