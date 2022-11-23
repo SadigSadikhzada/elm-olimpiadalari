@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 disablePathToLower = true
 
 geekdocCollapseAllSections = true
-geekdocBreadcrumb = false
+geekdocBreadcrumb = true
 
 # Required if you want to render robots.txt template
 enableRobotsTXT = true

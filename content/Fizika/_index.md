@@ -1,4 +1,5 @@
 ---
 geekdocCollapseAllSections: true
+geekdocBreadcrumb: false
 ---
 

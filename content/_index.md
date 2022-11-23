@@ -1,5 +1,4 @@
 ---
-geekdocNav: false
 geekdocBreadcrumb: false
 Title: Elm olimpiadaları
 ---
